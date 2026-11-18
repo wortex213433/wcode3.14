@@ -125,6 +125,7 @@ Coming soon!
 - sys – Command-line arguments.
 
 No external dependencies are needed on Unix-like systems.
+I'm still working on this to make a better version. If you have any advises, I'm down for them. And ironically I forgot to add a file renaming option. I'm working on making a better WCode while keeping the non-complicated.
 
 🤝 Contributing
 
